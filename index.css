@@ -1,0 +1,67 @@
+body{
+	font-family: 'Manrope', sans-serif;
+	width: 100%;
+	background: #F5F5F5;
+}
+
+.cointeiner{
+margin: 0 auto 0 auto;	
+width: 1400px;
+height: 7211px;
+background: #FFFFFF;
+padding: 125px;
+
+}
+.TheFirstImg{
+	margin-top: 30px;
+	padding-top: 379px;
+	padding-left: 40px;
+	width: 1150px;
+	height: 500px;
+	background-image: url('resours/Rectangle\ 1.png');
+	
+}
+
+.img-text{
+	width: 400px;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 27px;
+	color: rgba(255, 255, 255, 1);
+	letter-spacing: -0.03em;	
+}
+
+h1{
+	font-size: 60px;
+	font-weight: 400;
+	line-height: 60px;
+	letter-spacing: -0.03em;
+}
+
+h2{
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 24.59px;
+	letter-spacing: -0.03em;
+	text-align: left;
+}
+
+.description{
+	margin-top: 30px;
+	font-size: 45px;
+	font-weight: 400;
+	line-height: 61.47px;
+	letter-spacing: -0.03em;
+	text-align: left;
+}
+
+.view-services{
+	display: inline-block;
+	margin-top: 30px;
+	padding: 20px 40px;
+	border-radius: 5px;
+	text-decoration: none;
+	color: #FFFFFF;
+	background: rgba(173, 24, 24, 1);
+}
+
