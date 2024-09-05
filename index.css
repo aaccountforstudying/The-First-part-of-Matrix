@@ -6,20 +6,18 @@ body{
 
 .cointeiner{
 margin: 0 auto 0 auto;	
-width: 1400px;
-height: 7211px;
+width: 1100px;
 background: #FFFFFF;
 padding: 125px;
 
 }
-.TheFirstImg{
+.theFirstImg{
 	margin-top: 30px;
 	padding-top: 379px;
 	padding-left: 40px;
-	width: 1150px;
+	max-width: 1150px;
 	height: 500px;
 	background-image: url('resours/Rectangle\ 1.png');
-	
 }
 
 .img-text{
@@ -39,7 +37,7 @@ h1{
 }
 
 h2{
-	font-size: 18px;
+	font-size: 28px;
 	font-weight: 400;
 	line-height: 24.59px;
 	letter-spacing: -0.03em;
@@ -64,4 +62,5 @@ h2{
 	color: #FFFFFF;
 	background: rgba(173, 24, 24, 1);
 }
+
 
